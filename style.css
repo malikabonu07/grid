@@ -1,0 +1,18 @@
+.title {
+    color: green;
+}
+.div {
+    background-color: grey;
+    height: 400px;
+    display: grid;
+    grid-template-columns:auto auto auto;
+    margin:30px;
+    gap: 50px;
+    
+}
+.box {
+    background-color: gainsboro;
+    display: flex;
+    align-items: center;
+
+}
